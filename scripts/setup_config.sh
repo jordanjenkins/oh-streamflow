@@ -1,0 +1,5 @@
+#!/bin/bash
+export GCP_PROJECT_ID=oh-streamflow
+export GCP_GCS_BUCKET=oh_streamflow_data_lake_oh-streamflow
+export TMP_BUCKET=oh_streamflow_data_lake_tmp_oh-streamflow
+export BIGQUERY_DATASET=streamflow_prod
